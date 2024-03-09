@@ -17,6 +17,4 @@ function mincost(arr) {
 	
 const arr = [4, 3, 2, 6];
 console.log(mincost(arr));
-}
-
 module.exports=mincost;
