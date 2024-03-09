@@ -1,6 +1,4 @@
-function mincost(arr)
-{ 
-function mincost(arr) {
+ function mincost(arr) {
     arr.sort((a, b) => a - b);
 
     let cost = 0;
